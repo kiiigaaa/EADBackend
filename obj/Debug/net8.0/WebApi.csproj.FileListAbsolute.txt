@@ -1,0 +1,167 @@
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\appsettings.json
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.exe
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.deps.json
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.pdb
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\AspNetCore.Identity.MongoDbCore.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\DnsClient.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDbGenericRepository.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\SharpCompress.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Snappier.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\ZstdSharp.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.pdb
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+D:\Personal Documents\University\Y4\Y4S1\EAD\Assignments\Assignment1\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\appsettings.json
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.exe
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.deps.json
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.pdb
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\AspNetCore.Identity.MongoDbCore.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\DnsClient.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDbGenericRepository.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\SharpCompress.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Snappier.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\ZstdSharp.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.pdb
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+C:\SLIIT\4th Year\1st semester\EAD - SE4040\Assignment\EAD-Assignment\backend\WebApi\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\appsettings.json
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.exe
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.deps.json
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.runtimeconfig.json
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\WebApi.pdb
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\AspNetCore.Identity.MongoDbCore.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\DnsClient.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\MongoDbGenericRepository.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\SharpCompress.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\Snappier.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\ZstdSharp.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.AssemblyReference.cache
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfoInputs.cache
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.AssemblyInfo.cs
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.CoreCompileInputs.cache
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApi.props
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\scopedcss\bundle\WebApi.styles.css
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.csproj.Up2Date
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\refint\WebApi.dll
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.pdb
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
+D:\EAD-Assignment-Master\backend\WebApi\WebApi\obj\Debug\net8.0\ref\WebApi.dll
